@@ -205,3 +205,25 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# ---- Game assets ----
+assets/sounds/
+assets/music/
+assets/images/
+assets/visuals/
+ai_content/
+*.wav
+*.mp3
+*.aiff
+*.flac
+*.ogg
+
+# ---- Logs & temporary ----
+*.log
+*.tmp
+*.bak
+
+# ---- Editor/OS files ----
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
